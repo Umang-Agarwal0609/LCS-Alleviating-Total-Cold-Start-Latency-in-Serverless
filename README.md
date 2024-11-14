@@ -13,12 +13,6 @@ allocation based on demand patterns. This reduces cold start occurrences, optimi
 enhances user experience. Our findings demonstrate that LCS effectively mitigates cold start latency, striking 
 a balance between performance and resource efficiency in serverless applications. 
 
-## Installation
-
-To install this project, follow these steps:
-1. Clone the repository: https://github.com/Umang-Agarwal0609/LCS-Alleviating-Total-Cold-Start-Latency-in-Serverless
-
-
 LRU-Based Container Scheduler
 This project implements a Least Recently Used (LRU) Container Scheduler designed to handle function requests efficiently by minimizing cold starts. The scheduler dynamically manages multiple containers across workers, reusing idle containers within a specified warm time to reduce latency and optimize resource utilization. It is designed to scale across multiple workers and function IDs, distributing load evenly using a dynamic worker selection strategy.
 
@@ -101,6 +95,11 @@ Adaptive Warm Time: Dynamically adjust warm time based on request patterns.
 Advanced Load Balancing: Implement additional strategies (e.g., round-robin or priority-based) for routing requests.
 License
 This project is open source and available under the MIT License.
+
+## Installation
+
+To install this project, follow these steps:
+1. Clone the repository: https://github.com/Umang-Agarwal0609/LCS-Alleviating-Total-Cold-Start-Latency-in-Serverless
 
 ## Usage
 
