@@ -39,7 +39,6 @@ This project implements a **Least Recently Used (LRU) Container Scheduler** desi
 
 ## Usage
 
-### Run the Simulation:
 
 ```bash
 python main.py
