@@ -29,18 +29,13 @@ This project implements a **Least Recently Used (LRU) Container Scheduler** desi
   - `matplotlib` (for visualizations)
   - `random` (for generating random delays between requests)
 
-### Installation
+## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/Umang-Agarwal0609/LCS-Alleviating-Total-Cold-Start-Latency-in-Serverless
 2. Install dependencies:
    ```bash
    pip install matplotlib
-## Installation
-
-To install this project, follow these steps:
-1. Clone the repository: https://github.com/Umang-Agarwal0609/LCS-Alleviating-Total-Cold-Start-Latency-in-Serverless
-2. Install dependencies: pip install matplotlib
 
 ## Usage
 
