@@ -38,8 +38,6 @@ This project implements a **Least Recently Used (LRU) Container Scheduler** desi
    pip install matplotlib
 
 ## Usage
-
-
 ```bash
 python main.py
 
