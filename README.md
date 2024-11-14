@@ -87,9 +87,19 @@ This project is open source and available under the MIT License.
 
 To install this project, follow these steps:
 1. Clone the repository: https://github.com/Umang-Agarwal0609/LCS-Alleviating-Total-Cold-Start-Latency-in-Serverless
+2. Install dependencies: pip install matplotlib
 
 ## Usage
 
 To run the project, use the following command:
-```bash
 python3 main.py
+This command will:
+
+Initialize the scheduler with a specified warm time.
+Dynamically select workers for each function request.
+Collect data on cold and warm starts and simulate delays between requests.
+Display final statistics and generate graphs.
+View Output:
+
+Total cold starts, Total warm starts, and Cold start rate are displayed in the console.
+Graphs show cold vs. warm starts over time and delay patterns, providing insights into scheduler performance.
