@@ -16,8 +16,7 @@ a balance between performance and resource efficiency in serverless applications
 ## Installation
 
 To install this project, follow these steps:
-1. Clone the repository: https://github.com/Umang-Agarwal0609/LCS-Alleviating-Total-Cold-Start-Latency-in-Serverless-Applications-with-LRU-Warm-Container-Approach
-
+1. Clone the repository: https://github.com/Umang-Agarwal0609/LCS-Alleviating-Total-Cold-Start-Latency-in-Serverless
 ## Usage
 
 To run the project, use the following command:
