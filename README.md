@@ -39,18 +39,11 @@ This project implements a **Least Recently Used (LRU) Container Scheduler** desi
 
 ## Usage
 
-To run the project, use the following command: python3 main.py
+### Run the Simulation:
 
-This command will:
-Initialize the scheduler with a specified warm time.
-Dynamically select workers for each function request.
-Collect data on cold and warm starts and simulate delays between requests.
-Display final statistics and generate graphs.
+```bash
+python main.py
 
-View Output:
-
-Total cold starts, Total warm starts, and Cold start rate are displayed in the console.
-Graphs show cold vs. warm starts over time and delay patterns, providing insights into scheduler performance.
 
 ## Project Goals
 
